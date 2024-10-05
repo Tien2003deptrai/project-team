@@ -2,3 +2,6 @@ cd project-team
 git add .
 git commit -m "index3 index4 file"
 git push origin main
+
+cd project-team
+git pull origin main
